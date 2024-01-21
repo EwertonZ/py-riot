@@ -1,8 +1,8 @@
 LICENSE
 README.md
 setup.py
-account-v1/__init__.py
-account-v1/account.py
+account_riot/__init__.py
+account_riot/account.py
 py_riot_standard_calls.egg-info/PKG-INFO
 py_riot_standard_calls.egg-info/SOURCES.txt
 py_riot_standard_calls.egg-info/dependency_links.txt
