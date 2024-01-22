@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-account-v1/__init__.py
-account-v1/account.py
-py_riot.egg-info/PKG-INFO
-py_riot.egg-info/SOURCES.txt
-py_riot.egg-info/dependency_links.txt
-py_riot.egg-info/top_level.txt
