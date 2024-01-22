@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+account_riot/__init__.py
+account_riot/account.py
+match_riot/__init__.py
+match_riot/match.py
+py_riot_standard_calls.egg-info/PKG-INFO
+py_riot_standard_calls.egg-info/SOURCES.txt
+py_riot_standard_calls.egg-info/dependency_links.txt
+py_riot_standard_calls.egg-info/requires.txt
+py_riot_standard_calls.egg-info/top_level.txt
